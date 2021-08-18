@@ -26,7 +26,6 @@ confusion matrix.
     * **recall**
     * **f1**
 
-
 ## General 
 - **Version**: 0.1
 - **Dependency**: Python(3.6,3.7.3.8), numpy, pandas
